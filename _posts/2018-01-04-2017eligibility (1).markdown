@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "2017: a retrospective"
+date:   2018-01-04 01:17:45 -0500
+categories: interviews
+image: "/assets/west-to-west-review.jpg"
+---
+Wiser people than me have spoken out about the value of [self-promotion and celebrating your work][dongwon]. In the midst of a year where many of us felt less like we were writing than like we were simply surviving one page to the next, this feels especially important. We made it through. We lost heroes. We did not experience this year so much as endured it. But we found a way, still, to make art -- to rise every day in an atmosphere of ugliness and terror and keep hammering away at the painful things that matter.
+
+So hell yeah, let's celebrate.
+
+What follows are my award-eligible publications for 2017.
+
+I published my first novel, [Hole in the Middle][holegoodreads]. It's a young adult novel about feeling like a piece of you is missing, and that missing piece makes you weird and unlovable and unfit for meaningful relationships. Because it's magical realism, it's also about actually having a large hole in your torso and, consequently, how to punch patriarchal body-shame in the teeth. It was published in the UK (Little Brown) and Germany (Oetinger), and is coming out in the United States and Canada from Soho Teen next fall.
+
+I also, after a totally kickass summer with the Clarion SFF class of 2016, published my first ever pro market SFF stories in 2017: 
+
+[The Selkie Wives][selkie], published by the wonderland that is Apex Magazine, is a meta-fairy tale that obsessively tells and retells the selkie myth -- a problematic narrative searching for a happy ending in an inherently unhappy world.
+
+[Octopus vs. Bear][octo] found a beautiful home with John Joseph Adams at Lightspeed and on the [Lightspeed podcast][octo]. I wrote this gender horror story in a fit of exhaustion with street harassment. Though the story started out as an examination of the horrors inherent in and perpetuated by (un)conscious privilege, writing it ultimately shed light (for me) on the [insidiousness of the patriarchy][lightinterview] for everybody, and [the power of stories and storytelling to destroy rape culture][lightinterview].
+
+I was also over the moon to have a story appear on PodCastle! [Asymmetry][podcastle] is a story about heartbreak, and falling into (and out of) love with yourself after. Literally, it's a story about a woman dating her doppelganger after her husband leaves, if we're going for the sixth-grade book report version. It's technically a reprint, but whatever; go listen to it; it's great.
+
+In short, sugar-pumpkins, this is how I survived my year. How did you? Let me know. Let's celebrate. Find me on Twitter @kendraffe.
+
+
+[dongwon]: https://twitter.com/dongwon/status/948775344080805888
+[holegoodreads]: https://www.goodreads.com/book/show/32827157-hole-in-the-middle
+[octo]: https://www.lightspeedmagazine.com/fiction/octopus-vs-bear/
+[lightinterview]: https://www.lightspeedmagazine.com/nonfiction/author-spotlight-kendra-fortmeyer/
+[selkie]: https://www.apex-magazine.com/the-selkie-wives/
+[podcastle]: http://podcastle.org/2017/06/13/pc-474-asymmetry/
