@@ -9,8 +9,9 @@ link: www.kendrafortmeyer.com/fiction/
 book_link: http://kendrafortmeyer.com/book/
 ---
 
-In the words of <a href="https://www.reverbnation.com/kurtfortmeyer">her father<a/>, Kendra Fortmeyer was "born in a barn and raised in a stable environment." She grew up in the lush woods of central North Carolina, surrounded by stacks of books from her local small-town library. 
+Kendra Fortmeyer grew up in the lush woods of North Carolina, surrounded by piles of books. She got the idea for her magical realist YA debut novel, HOLE IN THE MIDDLE, after a mediocre date, and also after her left lung unexpectedly collapsed. On a related note, she would like you to know that your body is spectacular and if anyone tells you otherwise, you may kick them in the teeth. 
 
-Now a Pushcart Prize-winning fiction writer, Kendra has been recognized by grants from the Elizabeth George Foundation, the Dafna Zamarripa-Gensundheit Prize, and the Michener Center for Writers, and her writing has appeared in *The Best American Nonrequired Reading*, *One Story*, *Lightspeed*, The Toast, and [elsewhere]({{ page.link }}). She received her MFA in fiction from the New Writers Project at UT Austin, and is a 2016 graduate of the Clarion Science Fiction and Fantasy Writers' Workshop. 
+She received a 2017 Pushcart Prize for her story, "Things I Know to Be True," which was originally published in *One Story* and reprinted in *The Best American Nonrequired Reading.* She's a recipient of grants from the Elizabeth George Foundation, Michener Center for Writers, Arvon Foundation and others, and a graduate of the 2016 Clarion Science Fiction and Fantasy Writers workshop with an MFA from the New Writers Project at the University of Texas at Austin. Her short fiction has appeared in The Toast, *Lightspeed*, *Apex*, and elsewhere.
 
-HOLE IN THE MIDDLE, her debut magical realist YA novel that challenges the way society teaches girls to think about their bodies, is [available now]({{page.book_link}}).
+tl;dr: Future mermaid, aspiring feminist folk hero, perpetual magical realist. Currently feeling all of the feels, and believing in you.
+
