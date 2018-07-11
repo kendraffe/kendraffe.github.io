@@ -20,7 +20,9 @@ Morgan Stone was born with a hole in her middle: perfectly smooth patch of nothi
 
 Feisty, feminist and downright different, Hole in the Middle is the story of what happens when a girl who is anything but normal confronts a world obsessed with body image and celebrity.
 
-Forthcoming from [Soho Teen]({{page.Soho_link}}) September 4, 2018. **[Preorder now.]({{page.Preorder_link}})**
+**Forthcoming from [Soho Teen]({{page.Soho_link}}) September 4, 2018.**
+
+**[Preorder now.]({{page.Preorder_link}})**
 
 **Reviews and praise**
 
@@ -37,6 +39,8 @@ Forthcoming from [Soho Teen]({{page.Soho_link}}) September 4, 2018. **[Preorder 
 **Find the German and UK editions here:**
 
 [Amazon.co.uk]({{page.amazon_link}})
+
 [Amazon.de]({{page.amazon_german_link}})
+
 [Waterstones]({{page.waterstones_link}})
 
