@@ -24,6 +24,8 @@ Feisty, feminist and downright different, Hole in the Middle is the story of wha
 
 **[Preorder now.]({{page.Preorder_link}})**
 
+
+
 **Reviews and praise**
 
 "Intriguing and innovative.... With this debut, Fortmeyer establishes herself as a writer to watch." -- *[The Irish Times]({{page.IrishTimes_link}})*
@@ -35,6 +37,8 @@ Feisty, feminist and downright different, Hole in the Middle is the story of wha
 "Kendra Fortmeyer's debut is more heart than holes, creatively brilliant, wacky and wise. An author to watch!" -- Bonnie-Sue Hitchcock, author of the Carnegie Medal-shortlisted *The Smell of Other People's Houses*
 
 "HOLE IN THE MIDDLE is poetic and peculiar: a story about discovering yourself in all your strange excesses and missing parts and learning how to show them to the world." -- Heidi Heilig, author of *The Girl From Everywhere*
+
+
 
 **Find the German and UK editions here:**
 

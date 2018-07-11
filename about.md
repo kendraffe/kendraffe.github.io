@@ -4,7 +4,7 @@ title: about
 subtitle: About Kendra Fortmeyer
 nav: true
 permalink: /about/
-image: "about2.jpg"
+image: "about3.jpg"
 link: www.kendrafortmeyer.com/fiction/
 book_link: http://kendrafortmeyer.com/book/
 ---
