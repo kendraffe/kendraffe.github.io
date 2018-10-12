@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Love YA Like Crazy podcast"
+title:  "HITM launch party, now with more holey snacks"
 date:   2018-09-05 01:17:45 -0500
 categories: interviews
 image: "/assets/bookpeople.jpg"
