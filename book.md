@@ -20,19 +20,22 @@ Morgan Stone was born with a hole in her middle: perfectly smooth patch of nothi
 
 Feisty, feminist and downright different, Hole in the Middle is the story of what happens when a girl who is anything but normal confronts a world obsessed with body image and celebrity.
 
-**Forthcoming from [Soho Teen]({{page.Soho_link}}) September 4, 2018.**
+**Available now from [Soho Teen]({{page.Soho_link}}) and major booksellers in hardcover, eBook, and audiobook.**
 
-**[Preorder now.]({{page.Preorder_link}})**
+**[Order now.]({{page.Preorder_link}})**
 
 
 
 **Reviews and praise**
 
+“An empowering, timely feminist read about bodily autonomy and one young woman's fight to keep control of hers.”
+-- *Kirkus*
+
 "Intriguing and innovative.... With this debut, Fortmeyer establishes herself as a writer to watch." -- *[The Irish Times]({{page.IrishTimes_link}})*
 
-"A powerful, witty and funny tale." -- *[Publishers Weekly]({{page.PublishersWeekly_link}})*
-
 "Dazzling, one hundred percent believable, and laugh-out-loud funny. Kendra Fortmeyer has an admirably weird brain." -- Kelly Link, author of *Get in Trouble*
+
+"A powerful, witty and funny tale." -- *[Publishers Weekly]({{page.PublishersWeekly_link}})*
 
 "Kendra Fortmeyer's debut is more heart than holes, creatively brilliant, wacky and wise. An author to watch!" -- Bonnie-Sue Hitchcock, author of the Carnegie Medal-shortlisted *The Smell of Other People's Houses*
 
