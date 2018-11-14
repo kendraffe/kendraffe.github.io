@@ -6,7 +6,7 @@ categories: interviews
 image: "/assets/mfatips.jpg"
 ---
 
-DEARLY BELOVEDS IN THE MIDST OF THE STRESS-CLOUD THAT IS MFA APPLICATION SEASON. For the past several years, I’ve had the privilege of screening fiction applications for a high-ranking MFA program. So here, on the slim chance that they may be helpful -- because I love you and am rooting for you very hard -- are a few notes on how to put your best foot (or avoid putting your worst foot) forward when applying to MFA fiction programs, residencies, and grants. [Click here to read.][continue]
+DEARLY BELOVEDS IN THE MIDST OF THE STRESS-CLOUD THAT IS APPLYING FOR BIG AND SCARY THINGS. For the past several years, I’ve had the privilege of screening fiction applications for a high-ranking MFA program. So here -- because I love you and am rooting for you very hard -- are a few notes on how to put your best foot (or avoid putting your worst foot) forward when applying to MFA fiction programs, residencies, and grants. [Click here to read.][continue]
 
 1.	**Make sure your headers are correct and that you correctly address the program you are applying to.** This sounds painfully obvious, but I’ve seen this incorrectly done more times than I can say (largely because I’m too busy rolling my eyes and grumbling to keep count). **Dear ones, don't spend $50 on application fees only to open your submission with something that'll make your reader grumble.** It is irresponsible on many levels.
 
