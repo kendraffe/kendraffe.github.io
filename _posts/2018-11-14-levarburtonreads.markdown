@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LeVar Burton Reads Live! was everything"
-date:   2018-11-14 01:17:45 -0500
+date:   2018-11-14 13:17:45 -0500
 categories: interviews
 image: "/assets/levarqa.jpg"
 ---
