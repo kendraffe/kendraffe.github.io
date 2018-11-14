@@ -16,7 +16,6 @@ So if you have one story that you feel is far and away your best, submit this on
 
 3.	**Corollary: If you're submitting a story that does something very particular with voice,** such as Naive Child (which is admittedly *very* difficult to pull off; I'd personally advise extreme caution submitting this for something as high-stakes as an application), **DO submit another piece, or pieces, to show your range.** Otherwise, there's no way for the reader to tell if the diction in your piece is brilliant narrative characterization, or if you are a naive child.
 
-
 4.	**Like bold voice choice, humor can be very, very tricky.** What strikes your ear as hilarity may fall completely flat with somebody else. This isn't to say your story can't contain humor, but submitting a madcap absurdist/satirical farce is a risk. Proceed with caution.
 
 5.	**If your writing sample is an excerpt of a longer work, submit the first chapter.** If Chapter 16 is the best chapter of your work, then friend, you need to go back and work on Chapter 1. (Think this through: Chapter 1 is the first sample of your writing that an agent will see when querying. Moreover, it's the first chapter a reader will see when they pick up your book. Readers are busy. They don't have until Chapter 16 to decide they like your book. If you can't hook them with Chapter 1 -- and they aren't your mom -- you're going to lose them as a reader.) When I see late-chapter excerpts in writing submissions, even if the prose is fine, it raises a flag for me.
@@ -38,5 +37,5 @@ I hope this helps, dear ones. You're in an exciting and stressful and potentiall
 With love & sympathy, k
 
 
-[continue]: http://kendrafortmeyer.com/interviews/2018/11/04/MFAadvice.html
+[continue]: http://kendrafortmeyer.com/interviews/2018/11/14/MFAadvice.html
 
