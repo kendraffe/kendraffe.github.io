@@ -6,7 +6,7 @@ categories: interviews
 image: "/assets/mfatips.jpg"
 ---
 
-DEARLY BELOVEDS IN THE MIDST OF THE STRESS-CLOUD THAT IS MFA APPLICATION SEASON. For the past several years, I’ve had the privilege of screening fiction applications for a high-ranking MFA program. So here, on the slim chance that they may be helpful -- because I love you and am rooting for you very hard -- are a few notes on how to put your best foot (or avoid putting your worst foot) forward when applying to MFA fiction programs. [Click here to read.][continue]
+DEARLY BELOVEDS IN THE MIDST OF THE STRESS-CLOUD THAT IS MFA APPLICATION SEASON. For the past several years, I’ve had the privilege of screening fiction applications for a high-ranking MFA program. So here, on the slim chance that they may be helpful -- because I love you and am rooting for you very hard -- are a few notes on how to put your best foot (or avoid putting your worst foot) forward when applying to MFA fiction programs, residencies, and grants. [Click here to read.][continue]
 
 1.	**Make sure your headers are correct and that you correctly address the program you are applying to.** This sounds painfully obvious, but I’ve seen this incorrectly done more times than I can say (largely because I’m too busy rolling my eyes and grumbling to keep count). **Dear ones, don't spend $50 on application fees only to open your submission with something that'll make your reader grumble.** It is irresponsible on many levels.
 
@@ -21,7 +21,7 @@ DEARLY BELOVEDS IN THE MIDST OF THE STRESS-CLOUD THAT IS MFA APPLICATION SEASON.
 6.	Again: submit your best work. **There is a very good chance that your preliminary screener may only read your writing sample.** So you’ve got to kill it. Don’t rely on a dazzling personal statement, publishing history, or recommendation letter to carry any weight. Don’t skimp on these pieces --they are important, and they do come into play in the final round of admissions -- but if your writing sample is weak, your application will likely be eliminated before it ever reaches those vaunted halls. (A note on letters and personal statements: a publishing history is shiny, but the admissions committee at any program worth its salt is concerned with building a warm community of writers who will be helpful to each other, or who, at the very least, won't suck to work with for the next 2-4 years. Do make sure to indicate your interest and experience in being a good community member. **In the famed words of Victor Lavalle, offering our Clarion class his best piece of writing advice, "Don't be an asshole."**)
 
 
-**Finally, a piece of completely unsolicited life advice.**
+**Finally, a piece of completely unsolicited life advice for undergraduates.**
 
 If you’ve just graduated from an undergraduate program, consider taking some time out of school before applying to an MFA program. This is, again, life advice more than application advice, so feel free to take it or leave it. But here’s my reasoning:
 
