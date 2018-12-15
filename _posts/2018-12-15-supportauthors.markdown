@@ -20,7 +20,7 @@ The holidays! They’re stressful. They’re expensive. They transform every par
 
 **Send a kind note to the author.** Many authors have public social media accounts and contact information on their webpages – drop a line! Everyone’s human, and you will absolutely make someone’s day by saying you love their work, no matter how successful or famous they seem to be. (Seriously. Every writer is a person staring in despair at a computer screen at some point in the day.) 
 
-Thanks for giving the gift of kindness this holiday season, y’all. Be merry!
+Thanks for giving the gift of kindness this holiday season, y’all. Be merry! 
 
 
 [more]: http://kendrafortmeyer.com/interviews/2018/12/15/supportauthors.html
