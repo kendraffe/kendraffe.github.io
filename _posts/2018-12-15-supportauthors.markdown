@@ -10,15 +10,15 @@ The holidays! They’re stressful. They’re expensive. They transform every par
 
 **The extremely great human’s guide to supporting authors (for free!)**
 
-	**Write positive reviews of their books** and share them on your blog, [Goodreads][holegoodreads], or retail sites like [Amazon][amazon] or [Barnes & Noble][barnes].
+**Write positive reviews of their books** and share them on your blog, [Goodreads][holegoodreads], or retail sites like [Amazon][amazon] or [Barnes & Noble][barnes].
 
-	**Tell your friends about the book.**
+**Tell your friends about the book.**
 
-	**Share reading recommendations on social media.** If you loved a book, tag the author in your post – they may write back! (Great hashtags include #amreading and #bookstagram.)
+**Share reading recommendations on social media.** If you loved a book, tag the author in your post – they may write back! (Great hashtags include #amreading and #bookstagram.)
 
-	**Request that your school or public library purchase a copy of the book.** If they already have the book, check it out! The more demand for a title, the more likely the library will purchase more, look for more books by the author, and put the book on display. Plus, as explained by the [wonderful Kristen Arnett][arnett], using your library helps keep your library alive, which is objectively a blessing.
+**Request that your school or public library purchase a copy of the book.** If they already have the book, check it out! The more demand for a title, the more likely the library will purchase more, look for more books by the author, and put the book on display. Plus, as explained by the [wonderful Kristen Arnett][arnett], using your library helps keep your library alive, which is objectively a blessing.
 
-	**Send a kind note to the author.** Many authors have public social media accounts and contact information on their webpages – drop a line! Everyone’s human, and you will absolutely make someone’s day by saying you love their work, no matter how successful or famous they seem to be. (Seriously. Every writer is a person staring in despair at a computer screen at some point in the day.) 
+**Send a kind note to the author.** Many authors have public social media accounts and contact information on their webpages – drop a line! Everyone’s human, and you will absolutely make someone’s day by saying you love their work, no matter how successful or famous they seem to be. (Seriously. Every writer is a person staring in despair at a computer screen at some point in the day.) 
 
 Thanks for giving the gift of kindness this holiday season, y’all. Be merry!
 
