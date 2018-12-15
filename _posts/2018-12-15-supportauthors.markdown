@@ -3,7 +3,7 @@ layout: post
 title:  "How to support authors this holiday season (without spending a dime)"
 date:   2018-12-15 11:17:45 -0500
 categories: interviews
-image: "/assets/lovelit.png"
+image: "/assets/lovelit2.png"
 ---
 
 The holidays! They’re stressful. They’re expensive. They transform every parking lot into a sixteenth level of Hell and every casual grocery trip into a guarantee you’ll have “Rockin’ Around the Christmas Tree” stuck in your head for days. But you are no ordinary citizen. You are a lover of literature, a true superhero of feeling. And even though you’re broke and frazzled and maybe can’t afford to buy a book, you want to support authors in the holiday season. Friends, this guide is for you. [Click to expand.][more]
