@@ -2,9 +2,9 @@
 layout: about
 title: Content
 subtitle: Content Writing Samples
-nav: true
+nav: false
 permalink: /content/
-image: "about.jpg"
+image: "about3.jpg"
 link: www.kendrafortmeyer.com/content/
 voltage_link: https://www.pec.coop/news/2017/voltage-regulator-maintenance/
 heater_link: https://www.pec.coop/news/2018/unattended-heaters/
