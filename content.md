@@ -27,7 +27,8 @@ badreview_link: http://kendrafortmeyer.com/interviews/2019/09/21/badreviews.html
 nano_link: http://kendrafortmeyer.com/interviews/2018/12/04/nanowrimo.html
 ---
 
-*Pedernales Electric Cooperative*
+**Pedernales Electric Cooperative**
+
 _80-year-old rural electric utility with more than 300k customers. Tone: Classic corporate (hero archetype). Goal: Promote reliability; boost existing customer satisfaction._
 
 [Reliability 365: Voltage regulator maintenance]({{page.voltage_link}})
@@ -45,7 +46,8 @@ In addition to promoting our reliability, value, and safety, our communications 
 [Beat the heat with our summer usage tips]({{page.peak_link}}) | [Look for capital credits on your December bill]({{page.credits_link}})
 It was frequently necessary for our team to communicate deeply complex information to our public, like our summer peak use and capital credits programs. The former was new, aiming to encourage customers to save by educating them about the tricky calculus by which the state sets power prices for utilities based on summer use; the latter was a decades-old legacy program with language inherited from (and highly regulated by) our legal department. My emphasis for these pieces was to communicate the relevant aspects of these programs as clearly and correctly as possible.
 
-*Kazoo HR*
+**Kazoo HR**
+
 _People management platform with HR resource library. Tone: Expert and engaging (entertainer archetype). Goal: Help companies create rewarding and purpose-driven workplaces._
 
 [21 Examples of Constructive Feedback for Performance Reviews]({{page.feedback_link}})
@@ -54,7 +56,8 @@ I knew very little about HR when I entered this space, and have had enormous fun
 [10 Things to Do on an Employee's First Day]({{page.firstday_link}})
 This gentle thought experiment reminds HR professionals how intimidating the first day at a new job can be, and provides 10 actionable tips for rolling out the welcome mat.
 
-*Cratejoy*
+**Cratejoy**
+
 _Subscription-based e-commerce start-up. Tone: Chatty, casual; lifestyle magazine. Goal: Drive marketplace sales and top search rankings._
 
 [5 Hobbies to Revitalize Your Self-Care Routine]({{page.selfcare_link}})
@@ -69,7 +72,8 @@ This piece does a little B2B and B2C double duty, featuring interviews with merc
 [Make Flying a Breeze: Tips for Traveling with Toddlers]({{page.toddler_link}}) | [We Love Snail Mail! How to Prepare for Your Next Delivery]({{page.snail_link}})
 These pieces provide actionable, relevant tips with promoted content.
 
-*Blog: The Amazing Skybrary*
+**Blog: The Amazing Skybrary**
+
 _In 2015, I was wrapping up my library science master's degree and teaching English at Skybridge Academy, an Austin, TX private school serving grades 6-12. Over the course of a summer and with a budget of $500, I developed a 1,000-volume collection, catalog, and functioning school library program, and kept a blog to help others do the same._
 
 [The Amazing Skybrary Blog]({{page.skybrary_link}})
@@ -81,7 +85,8 @@ Ready to get technical (services)? This post gets into the nitty gritty of colle
 [Sex in the library (books!) How our students helped me develop a plan to handle mature content in their Skybrary]({{page.mature_link}})
 Partway through the project, I ran into a challenge -- in a library with a wide audience, what do you do with content that's developmentally risky for some, and necessary for others? My students had an idea.
 
-*The Writing World*
+**The Writing World**
+
 _Writing -- both craft and business -- is hard. Sometimes I learn stuff, and put it on my website so it can help others, too._
 
 [You've just finished NaNoWriMo. Now what?]({{page.nano_link}})
