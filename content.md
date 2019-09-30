@@ -47,7 +47,9 @@ When our team was brainstorming ways to promote the cooperative's new electric v
 
 In addition to promoting our reliability, value, and safety, our communications team helped put a human face on our large corporate utility by featuring employee stories. I did this longform piece for Mother's Day in 2017; this is the only set of interviews I ever did for the company that made me cry. These women are incredible, and I'm honored to highlight their work.
 
-[Beat the heat with our summer usage tips]({{page.peak_link}}) | [Look for capital credits on your December bill]({{page.credits_link}})
+[Beat the heat with our summer usage tips]({{page.peak_link}})
+
+[Look for capital credits on your December bill]({{page.credits_link}})
 
 It was frequently necessary for our team to communicate deeply complex information to our public, like our summer peak use and capital credits programs. The former was new, aiming to encourage customers to save by educating them about the tricky calculus by which the state sets power prices for utilities based on summer use; the latter was a decades-old legacy program with language inherited from (and highly regulated by) our legal department. My emphasis for these pieces was to communicate the relevant aspects of these programs as clearly and correctly as possible.
 
@@ -79,7 +81,9 @@ One thing I deeply love about working with Cratejoy is getting to learn new thin
 
 This piece does a little B2B and B2C double duty, featuring interviews with merchants on the platform and finishing it off with a splash of feel-good girl power.
 
-[Make Flying a Breeze: Tips for Traveling with Toddlers]({{page.toddler_link}}) | [We Love Snail Mail! How to Prepare for Your Next Delivery]({{page.snail_link}})
+[Make Flying a Breeze: Tips for Traveling with Toddlers]({{page.toddler_link}}) 
+
+[We Love Snail Mail! How to Prepare for Your Next Delivery]({{page.snail_link}})
 
 These pieces provide actionable, relevant tips with promoted content.
 
