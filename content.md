@@ -115,7 +115,7 @@ Every November, the writing world enters the National Novel-Writing Month frenzy
 
 It's common knowledge in the industry that you shouldn't read reviews of your work. I did it anyway, and what I learned surprised me.
 
-[Confessions of an MFA screener]{{page.mfa_link}})
+[Confessions of an MFA screener]({{page.mfa_link}})
 
 Check your headers, don't submit farce, and don't optimize for page count -- and other heartfelt tips gleaned from years of screening MFA applications in fiction.
 
