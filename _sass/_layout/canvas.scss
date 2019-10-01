@@ -144,6 +144,9 @@ html {
 
     .nav-element + .nav-element {
       margin-left: 60px;
+      @media(max-width: 530px) {
+        margin-left: 10px;
+      }
     }
 
     .nav-element {
