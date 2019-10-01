@@ -27,7 +27,7 @@ badreview_link: http://kendrafortmeyer.com/interviews/2019/09/21/badreviews.html
 nano_link: http://kendrafortmeyer.com/interviews/2018/12/04/nanowrimo.html
 ---
 
-# Pedernales Electric Cooperative
+## Pedernales Electric Cooperative
 
 _80-year-old rural electric utility with more than 300k customers. Tone: Classic corporate (hero archetype). Goal: Promote reliability; boost existing customer satisfaction._
 
@@ -65,7 +65,7 @@ I knew very little about HR when I entered this space, and have had enormous fun
 
 This gentle thought experiment reminds HR professionals how intimidating the first day at a new job can be, and provides 10 actionable tips for rolling out the welcome mat.
 
-**Cratejoy**
+## Cratejoy
 
 _Subscription-based e-commerce start-up. Tone: Chatty, casual; lifestyle magazine. Goal: Drive marketplace sales and top search rankings._
 
@@ -87,7 +87,7 @@ This piece does a little B2B and B2C double duty, featuring interviews with merc
 
 These pieces provide actionable, relevant tips with promoted content.
 
-**Blog: The Amazing Skybrary**
+## Blog: The Amazing Skybrary
 
 _In 2015, I was wrapping up my library science master's degree and teaching English at Skybridge Academy, an Austin, TX private school serving grades 6-12. Over the course of a summer and with a budget of $500, I developed a 1,000-volume collection, catalog, and functioning school library program, and kept a blog to help others do the same._
 
@@ -103,7 +103,7 @@ Ready to get technical (services)? This post gets into the nitty gritty of colle
 
 Partway through the project, I ran into a challenge -- in a library with a wide audience, what do you do with content that's developmentally risky for some, and necessary for others? My students had an idea.
 
-**The Writing World**
+## The Writing World
 
 _Writing -- both craft and business -- is hard. Sometimes I learn stuff, and put it on my website so it can help others, too._
 
