@@ -27,7 +27,7 @@ badreview_link: http://kendrafortmeyer.com/interviews/2019/09/21/badreviews.html
 nano_link: http://kendrafortmeyer.com/interviews/2018/12/04/nanowrimo.html
 ---
 
-**Pedernales Electric Cooperative**
+# Pedernales Electric Cooperative
 
 _80-year-old rural electric utility with more than 300k customers. Tone: Classic corporate (hero archetype). Goal: Promote reliability; boost existing customer satisfaction._
 
@@ -53,7 +53,7 @@ In addition to promoting our reliability, value, and safety, our communications 
 
 It was frequently necessary for our team to communicate deeply complex information to our public, like our summer peak use and capital credits programs. The former was new, aiming to encourage customers to save by educating them about the tricky calculus by which the state sets power prices for utilities based on summer use; the latter was a decades-old legacy program with language inherited from (and highly regulated by) our legal department. My emphasis for these pieces was to communicate the relevant aspects of these programs as clearly and correctly as possible.
 
-**Kazoo HR**
+## Kazoo HR
 
 _People management platform with HR resource library. Tone: Expert and engaging (entertainer archetype). Goal: Help companies create rewarding and purpose-driven workplaces._
 
