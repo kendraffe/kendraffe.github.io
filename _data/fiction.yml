@@ -1,5 +1,23 @@
 fiction:
 
+ - snippet: "America: we are doing this wrong. We are teaching our girls to bury themselves while they’re still alive.."
+    pub: "Gay Mag"
+    dat: "November 2019"
+    format: "web"
+    wcount: "850"
+    title: "Waking Up to the Perfect Body (personal essay)"
+    link: "https://gay.medium.com/waking-up-to-the-perfect-body-507bad2ad6a"
+    image: "gaymag.jpeg"
+
+  - snippet: "We discovered the statues when we moved my grandmother out of her house. They were everywhere, clay and copper and soap and stone, tucked into nooks and teapots and half-buried in the garden."
+    pub: "Paper Darts"
+    dat: "November 2019"
+    format: "web"
+    wcount: "1,200"
+    title: "Supergiant"
+    link: "http://www.paperdarts.org/literary-magazine/2019/11/3/supergiant"
+    image: "paperdarts2.png"
+
   - snippet: "First, I want to give you this moment. You will understand why in the end."
     pub: "Lightspeed"
     dat: "August 2019"
@@ -8,6 +26,15 @@ fiction:
     title: "No Matter"
     link: "http://www.lightspeedmagazine.com/fiction/no-matter/"
     image: "nomatter.jpg"
+
+ - snippet: "She arrived at the date and found herself already there."
+    pub: "LeVar Burton Reads"
+    dat: "January 2019"
+    format: "podcast"
+    wcount: "48 minutes (audio only)"
+    title: "Asymmetry"
+    link: "https://www.stitcher.com/podcast/stitcher/levar-burton-reads/e/57777746"
+    image: "levar.jpeg"
 
   - snippet: "You woke up female this morning, so now you have a choice: do what other people want, or be a bitch."
     pub: "Lightspeed"
