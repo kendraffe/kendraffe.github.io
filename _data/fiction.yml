@@ -1,6 +1,6 @@
 fiction:
 
- - snippet: "America: we are doing this wrong. We are teaching our girls to bury themselves while they’re still alive.."
+ -  snippet: "America: we are doing this wrong. We are teaching our girls to bury themselves while they’re still alive.."
     pub: "Gay Mag"
     dat: "November 2019"
     format: "web"
@@ -27,7 +27,7 @@ fiction:
     link: "http://www.lightspeedmagazine.com/fiction/no-matter/"
     image: "nomatter.jpg"
 
- - snippet: "She arrived at the date and found herself already there."
+ -  snippet: "She arrived at the date and found herself already there."
     pub: "LeVar Burton Reads"
     dat: "January 2019"
     format: "podcast"
