@@ -35,6 +35,7 @@ fiction:
     title: "Asymmetry"
     link: "https://www.stitcher.com/podcast/stitcher/levar-burton-reads/e/57777746"
     image: "levar.jpeg"
+    feat: true
 
   - snippet: "You woke up female this morning, so now you have a choice: do what other people want, or be a bitch."
     pub: "Lightspeed"
@@ -292,7 +293,6 @@ fiction:
     title: "X Approaching One"
     image: "X-Approaching-One.jpg"
     link: "http://pankmagazine.com/piece/x-approaching-one/"
-    feat: true
 
   - snippet: "The blonde had dyed her hair red, so the whole thing was a shambles."
     pub: "Corium"
