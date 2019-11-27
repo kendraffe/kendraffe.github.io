@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "2019 publications and year in review"
+date:   2019-11-26 11:17:45 -0500
+categories: interviews
+image: "/assets/mfatips2.jpg"
+---
+
+It's that time again, friends! As the decade draws to a close and we reflect on our collective sins, take a minute to think about what you've done that's made you proud. The ways you've made the world a better place. And if one of those things is "making end-of-year round-up lists" or "nominating weird fiction for awards," then kindly keep reading -- I've got a short list of my 2019 pubs for your consideration. [Click to continue][continue].
+
+**Asymmetry: LeVar Burton Reads**
+This [podcast][levar], recorded live at the Paramount Theater in Austin last year (psst, this is me trying to be very cool about the fact that I _got to do a live interview with LeVar Burton_), opens, "She arrived at the date and found herself already there." 
+
+"Asymmetry" is -- what else? -- a speculative break-up story about the relationships we build with ourselves when we're digging our way from grief. Please note that this is a reprint, and not actually awards eligible -- it previously appeared on both [Forge][forge] and [PodCastle][podcastle]. But it was _so damned cool_, I couldn't not mention it. [Listen here!][levar] (It's about 48 minutes.)
+
+
+**No Matter: Lightspeed**
+My [first science fiction story][nomatter] appeared in Lightspeed this year! [No Matter][nomatter] follows a young married couple on a hike through the woods, where they're interrupted by a girl from the future bearing casually catastrophic news -- she's here with a message for her father, the narrator's husband... but the narrator is _not_ her mother. (But then, the narrator anxiously wonders, what has happened to her future self?) 
+
+What happens next jumps into questions of time travel, free will, and infidelity. I wrote it at the Clarion workshop, inspired by instructor Ted Chiang's lectures on free will and time travel (which blended in my sleepless brain with Jenny Offill's marvelous collage novel, DEPT. OF SPECULATION, which I'd been reading in the mornings before workshop). It's my first published sci-fi piece, and it let me do some things with person and tense I'm really proud of. [Read it here!][nomatter]
+
+**Supergiant: Paper Darts**
+This [flash fiction story][supergiant] begins, "We discovered the statues when we moved my grandmother out of her house. They were everywhere, clay and copper and soap and stone, tucked into nooks and teapots and half-buried in the garden. There was one of every man she had ever loved, and they scaled according to how much she had loved them, from the five-foot granite carving of my grandfather in the backyard to homunculi schoolgirl crushes the size of thumbtacks that we sifted for days from the bins of flour and lima beans."
+
+I wrote this story to perform at the Austin Short Short Fiction Festival, in response to [this visual prompt][prompt]. It's about self-love and kickass grandmas and is just 1,200 words of delight. It also started making me think seriously about what the role of fiction is, and what I want to do with mine -- but that's a topic for another day.
+
+[Give Supergiant a read here!][supergiant]
+
+**Waking Up to the Perfect Body: Gay Mag**
+Roxane Gay published my first and only personal essay, [Waking Up to the Perfect Body][gay], in her stellar new publication, Gay Magazine. It's about how my lung spontaneously collapsed when I was 21, and how, lying in a rural hospital bed in the Appalachian Mountains, I began to understand how all the ways I'd been taught to police my body as an American girl were, well. Wrong. 
+
+[Read it here][gay].
+
+**There Are Things, One Supposes, One Must Do For Oneself: Cotton Xenomorph**
+My [final flash publication of the year][things] found a home in the beautiful [Cotton Xenomorph][things]. "There Are Things, One Supposes, One Must Do For Oneself" is a whimsical tale of death and being a tough old broad. [Read it here!][things]
+
+Thank you, dear readers. As the decade comes to a close, forget those sins. There are greater things at stake. xx
+
+[things]: https://www.cottonxenomorph.com/journal/2019/11/25/there-are-things-one-supposes-one-must-do-for-oneself
+[gay]: https://gay.medium.com/waking-up-to-the-perfect-body-507bad2ad6a
+[prompt]: https://twitter.com/kendraffe/status/1195046697468076033
+[supergiant]: http://www.paperdarts.org/literary-magazine/2019/11/3/supergiant
+[forge]: http://forgejournal.com/forge/2014/09/23/asymmetry/
+[podcastle]: http://podcastle.org/2017/06/13/pc-474-asymmetry/
+[continue]: http://kendrafortmeyer.com/interviews/2019/11/26/2019pubs.html
+[levar]: https://www.stitcher.com/podcast/stitcher/levar-burton-reads/e/57777746
+[nomatter]: http://www.lightspeedmagazine.com/fiction/no-matter/
+[interview]: http://www.lightspeedmagazine.com/nonfiction/author-spotlight-kendra-fortmeyer-2/
+
