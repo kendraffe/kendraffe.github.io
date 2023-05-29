@@ -25,11 +25,47 @@ mature_link: https://theamazingskybrary.wordpress.com/2015/08/20/students-save-t
 mfa_link: http://kendrafortmeyer.com/interviews/2018/11/14/MFAadvice.html
 badreview_link: http://kendrafortmeyer.com/interviews/2019/09/21/badreviews.html
 nano_link: http://kendrafortmeyer.com/interviews/2018/12/04/nanowrimo.html
+recession_link: https://www.saleshacker.com/2008-recession/
+summit_link: https://www.saleshacker.com/2022-sales-success-summit/
+economy_link: https://www.saleshacker.com/2022-sales-success-summit/
 ---
+
+## Kazoo
+
+_People management platform with HR resource library. Tone: Expert and engaging (entertainer archetype). Goal: Help companies create rewarding and purpose-driven workplaces while dominating search for our target keywords.
+
+_**Note:** Kazoo is now WorkTango.
+
+[20 Examples of Constructive Feedback for Performance Reviews]({{page.feedback_link}})
+
+I'm especially proud of this one, which gives the reader tools for providing effective, constructive employee feedback even in difficult situations and consistently ranked #1 for the kw "constructive feedback examples" while I was at Kazoo, averaging 30k pageviews a month.
+
+(Please forgive the new and somewhat dreadful title, which is after my time.)
+
+[How to Welcome a New Employee to the Team Remotely]({{page.firstday_link}})
+
+This guide to help HR pros set up employees for success was one of many that needed a big overhaul when the tech world went remote in 2020. I still love this one for its empathetic take, actionable tips, and emphasis on humanizing the workplace.
+
+##**Sales Hacker**
+_Thought leadership for B2B sales. Goal: Build Sales Hacker's brand as the premier destination for salespeople to learn, grow, and level up in their careers.
+
+[Why You (Probably) Shouldn't Worry About a Recession]({{page.recession_link}})
+
+I hosted a webinar with 4 leaders who led sales teams through the 2008 recession. Here's what they said. 
+
+This was an exercise in working with executives, seeking out and uplifting diverse voices, and providing actionable takeaways at a time of great uncertainty.
+
+[What Blew My Mind at the Sales Success Summit]({{page.summit_link}})
+
+A little field work in the community.
+
+[We Asked 10 Sales Leaders About the Economy]({{page.economy_link}})
+
+More work with diverse leaders, influencers and executives to reinforce Sales Hacker's brand reputation as a leader in the sales thought space.
 
 ## Pedernales Electric Cooperative
 
-_80-year-old rural electric utility with more than 300k customers. Tone: Classic corporate (hero archetype). Goal: Promote reliability; boost existing customer satisfaction._
+_80-year-old rural electric utility with 300k customers. Tone: Classic corporate (hero archetype). Goal: Promote reliability; boost customer satisfaction._
 
 [Reliability 365: Voltage regulator maintenance]({{page.voltage_link}})
 
@@ -52,18 +88,6 @@ In addition to promoting our reliability, value, and safety, our communications 
 [Look for capital credits on your December bill]({{page.credits_link}})
 
 It was frequently necessary for our team to communicate deeply complex information to our public, like our summer peak use and capital credits programs. The former was new, aiming to encourage customers to save by educating them about the tricky calculus by which the state sets power prices for utilities based on summer use; the latter was a decades-old legacy program with language inherited from (and highly regulated by) our legal department. My emphasis for these pieces was to communicate the relevant aspects of these programs as clearly and correctly as possible.
-
-## Kazoo HR
-
-_People management platform with HR resource library. Tone: Expert and engaging (entertainer archetype). Goal: Help companies create rewarding and purpose-driven workplaces._
-
-[21 Examples of Constructive Feedback for Performance Reviews]({{page.feedback_link}})
-
-I knew very little about HR when I entered this space, and have had enormous fun learning on the job to craft thoughtful, informative, and helpful pieces. Most of them are behind a paywall, but I love this example, which is accessible to the public and gives the reader tools for providing effective, constructive employee feedback even in difficult situations.
-
-[10 Things to Do on an Employee's First Day]({{page.firstday_link}})
-
-This gentle thought experiment reminds HR professionals how intimidating the first day at a new job can be, and provides 10 actionable tips for rolling out the welcome mat.
 
 ## Cratejoy
 
