@@ -32,9 +32,9 @@ economy_link: https://www.saleshacker.com/2022-sales-success-summit/
 
 ## Kazoo
 
-_People management platform with HR resource library. Tone: Expert and engaging (entertainer archetype). Goal: Help companies create rewarding and purpose-driven workplaces while dominating search for our target keywords.
+_People management platform with HR resource library. Tone: Expert and engaging (entertainer archetype). Goal: Help companies create rewarding and purpose-driven workplaces while dominating search for our target keywords._
 
-_**Note:** Kazoo is now WorkTango.
+_**Note:** Kazoo is now WorkTango._
 
 [20 Examples of Constructive Feedback for Performance Reviews]({{page.feedback_link}})
 
@@ -46,8 +46,8 @@ I'm especially proud of this one, which gives the reader tools for providing eff
 
 This guide to help HR pros set up employees for success was one of many that needed a big overhaul when the tech world went remote in 2020. I still love this one for its empathetic take, actionable tips, and emphasis on humanizing the workplace.
 
-##**Sales Hacker**
-_Thought leadership for B2B sales. Goal: Build Sales Hacker's brand as the premier destination for salespeople to learn, grow, and level up in their careers.
+## Sales Hacker
+_Thought leadership for B2B sales. Goal: Build Sales Hacker's brand as the premier destination for salespeople to learn, grow, and level up in their careers._
 
 [Why You (Probably) Shouldn't Worry About a Recession]({{page.recession_link}})
 
