@@ -4,6 +4,19 @@ HOST ?= 127.0.0.1
 PORT ?= 4000
 BASE_URL := http://$(HOST):$(PORT)
 
+ifneq ($(wildcard $(HOME)/.local/bin/),)
+export PATH := $(HOME)/.local/bin:$(PATH)
+endif
+ifneq ($(wildcard $(HOME)/bin/),)
+export PATH := $(HOME)/bin:$(PATH)
+endif
+
+RUBY_VERSION := $(shell cat .ruby-version 2>/dev/null | tr -d '[:space:]')
+RUBY_PREFIX ?= $(HOME)/.rubies/ruby-$(RUBY_VERSION)
+ifneq ($(wildcard $(RUBY_PREFIX)/bin/ruby),)
+export PATH := $(RUBY_PREFIX)/bin:$(PATH)
+endif
+
 PROD_REPO ?= rblakemesser/rblakemesser.github.io
 PROD_WORKFLOW ?= kendraffe.yml
 
