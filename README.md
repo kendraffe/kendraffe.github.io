@@ -1,4 +1,4 @@
-Hosted at kendrafortmeyer.com
+Hosted at http://kendrafortmeyer.com (canonical). https://kendraffe.github.io redirects there.
 
 To test on Windows:
 

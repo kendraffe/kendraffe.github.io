@@ -32,7 +32,7 @@
 ### Jekyll version
 - Local + CI builds are pinned via Bundler to Jekyll `4.4.1`.
 - Do not rely on GitHub Pages' built-in Jekyll stack (it is pinned and older); deployment uses GitHub Actions.
-- Production is `https://rblakemesser.github.io/` (deployed via `rblakemesser/rblakemesser.github.io` workflow `kendraffe.yml`).
+- Production (canonical) is `http://kendrafortmeyer.com/` (GitHub Pages for `kendraffe/kendraffe.github.io`; `https://kendraffe.github.io/` redirects).
 
 ### Screenshot-first page inspection
 When asked about the structure/content on any page:

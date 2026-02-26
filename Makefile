@@ -17,8 +17,8 @@ ifneq ($(wildcard $(RUBY_PREFIX)/bin/ruby),)
 export PATH := $(RUBY_PREFIX)/bin:$(PATH)
 endif
 
-PROD_REPO ?= rblakemesser/rblakemesser.github.io
-PROD_WORKFLOW ?= kendraffe.yml
+PROD_REPO ?= kendraffe/kendraffe.github.io
+PROD_WORKFLOW ?= pages.yml
 
 BUNDLE_PATH := vendor/bundle
 NPM := npm
@@ -145,24 +145,26 @@ ship:
 deploy-prod:
 	@set -euo pipefail; \
 	sha="$${SHA:-$$(git rev-parse HEAD)}"; \
-	echo "==> trigger production deploy for $$sha"; \
-	gh workflow run -R "$(PROD_REPO)" "$(PROD_WORKFLOW)" --ref master -f source_sha="$$sha"
+	echo "==> production deploy is triggered by push to master ($$sha)"; \
+	if [[ "$${TRIGGER_WORKFLOW:-0}" == "1" ]]; then \
+	  echo "==> manual deploy via workflow_dispatch ($$sha)"; \
+	  gh workflow run -R "$(PROD_REPO)" "$(PROD_WORKFLOW)" --ref master; \
+	fi
 
 watch:
 	@set -euo pipefail; \
 	sha="$${SHA:-$$(git rev-parse HEAD)}"; \
 	repo="$(PROD_REPO)"; \
 	workflow="$(PROD_WORKFLOW)"; \
-	expected="kendraffe@$$sha"; \
-	echo "==> locate production Pages run for $$expected"; \
+	echo "==> locate production Pages run for $$sha"; \
 	run_id=""; \
 	for _ in $$(seq 1 60); do \
-	  run_id="$$(gh run list -R "$$repo" --workflow "$$workflow" --event workflow_dispatch -L 50 --json databaseId,displayTitle --jq '.[] | select(.displayTitle == "'"$$expected"'") | .databaseId' | head -n 1 || true)"; \
+	  run_id="$$(gh run list -R "$$repo" --workflow "$$workflow" -L 50 --json databaseId,headSha,event --jq '.[] | select(.headSha == "'"$$sha"'" and (.event == "push" or .event == "workflow_dispatch")) | .databaseId' | head -n 1 || true)"; \
 	  if [[ -n "$$run_id" ]]; then break; fi; \
 	  sleep 2; \
 	done; \
 	if [[ -z "$$run_id" ]]; then \
-	  echo "ERROR: could not find a production Pages run for $$expected"; \
+	  echo "ERROR: could not find a production Pages run for $$sha"; \
 	  exit 1; \
 	fi; \
 	run_url="https://github.com/$$repo/actions/runs/$$run_id"; \
